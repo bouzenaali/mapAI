@@ -3,7 +3,10 @@
 This project is a shortest path finder implemented in Python using NetworkX and Streamlit.
 
 ## Usage
-you can directly check the deployed app from `https://mapai-project.streamlit.app`
+1. you can directly check the deployed app from `https://mapai-project.streamlit.app`
+2. Upload your map file (XML)
+3. Chose two points **A** and **B**
+4. Click `Find Shortest Path`
 
 ## Installation
 Or you can install the app and run it localy
